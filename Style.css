@@ -206,10 +206,10 @@ button:hover{
         justify-content: center;
     }
 
-    .car-container {
+    .car-container .box{
         position: absolute;
         width: 100%;
-        left: 20px;
+        justify-items: center;
     }
 }
 
