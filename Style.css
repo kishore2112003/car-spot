@@ -183,7 +183,7 @@ button:hover{
     .image{
         width: 100%;
         position: absolute;
-        bottom: -5%;
+        bottom: -10%;
         display: flex;
         justify-content: center;
     }
