@@ -201,7 +201,7 @@ button:hover{
     .about-img{
         width: 50%;
         position: absolute;
-        bottom: -30%;
+        bottom: -5%;
         display: flex;
         justify-content: center;
     }
