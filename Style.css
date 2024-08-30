@@ -333,7 +333,7 @@ button:hover{
 .blog-container{
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 1rem;
     margin-top: 2rem;
 }
 
