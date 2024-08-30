@@ -167,7 +167,7 @@ button:hover{
     
 }
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:400px) {
     .content{
         width: 100%;
         text-align: center;
